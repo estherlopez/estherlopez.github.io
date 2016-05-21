@@ -17,6 +17,7 @@ Bienvenido a un ejemplo de un artículo con **Jekyll**, con `MarkDown` tienes un
 
 * Enlaces:
     [Universidad Nacinal](http://www.una.ac.cr.com/)
+*Imagenes ![un gatito]({{ site.baseurl }}/images/gatito.jpg)
 
 y mucho más...
 
