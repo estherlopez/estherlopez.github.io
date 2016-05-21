@@ -1,14 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Bienvendido
 ---
 
----
-layout: post
-title:  "Bienvendido"
-date:   2015-11-02 19:51:01 -0600
-categories: Bienvenida
----
 
 Bienvenido a un ejemplo de un artículo con **Jekyll**, con `MarkDown` tienes un montón de opciones para tus artículos como:
 
