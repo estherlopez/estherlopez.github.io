@@ -3,7 +3,29 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+---
+layout: post
+title:  "Bienvendido"
+date:   2015-11-02 19:51:01 -0600
+categories: Bienvenida
+---
+
+Bienvenido a un ejemplo de un artículo con **Jekyll**, con `MarkDown` tienes un montón de opciones para tus artículos como:
+
+* Texto en negritas: **Texto**
+
+* Texto en enfatizado: *Texto*
+
+* Código: `Código`
+
+* Notas:
+> Ejemplo de una nota
+
+* Enlaces:
+    [Universidad Nacinal](http://www.una.ac.cr.com/)
+
+y mucho más...
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
