@@ -10,7 +10,7 @@ Bienvenido a un ejemplo de un artículo con **Jekyll**, con `MarkDown` tienes un
 
 * Texto en enfatizado: *Texto*
 
-* Código: `Código`
+* Código: ```x=3;```
 
 * Notas:
 > Ejemplo de una nota
